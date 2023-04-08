@@ -15,6 +15,10 @@ This is a prototype of automated generation framework for web projects. This pro
 Install Python dependencies:
 `pip install -r requirements.txt `
 
+Install the Automated Carbon Footprint Reduction Tool through `pip` command:
+`pip install autocarbonreductool==1.0`
+https://pypi.org/project/autocarbonreductool/1.0/
+
 ## Usage
 ### Settings
 The following parameters for the Automatic carbon footprint reduction tool in `parasettings.py` should be set.

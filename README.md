@@ -12,6 +12,9 @@ This is a prototype of automated generation framework for web projects. This pro
 * Selenium: 4.6
 * Psutil: 5.9
 
+Install Python dependencies:
+`ip install -r requirements.txt `
+
 ## Usage
 ### Settings
 The following parameters for the Automatic carbon footprint reduction tool in `parasettings.py` should be set.

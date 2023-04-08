@@ -13,7 +13,7 @@ This is a prototype of automated generation framework for web projects. This pro
 * Psutil: 5.9
 
 Install Python dependencies:
-`ip install -r requirements.txt `
+`pip install -r requirements.txt `
 
 ## Usage
 ### Settings

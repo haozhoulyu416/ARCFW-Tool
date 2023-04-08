@@ -1,0 +1,4 @@
+python>=3.10
+node=v16.18
+selenium>=4.6
+psutil>=5.9
